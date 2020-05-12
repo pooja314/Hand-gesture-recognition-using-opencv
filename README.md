@@ -1,1 +1,1 @@
-# Hand-gesture-recogniton-using-opencv
+# Hand-gesture-recognition-using-opencv
